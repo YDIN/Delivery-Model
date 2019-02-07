@@ -1,2 +1,5 @@
-# Delivery-Model
-YDIN Delivery Model used in the client projects
+# YDIN Delivery Model
+
+**Basic processes for all the Client Projects.**
+
+Tailored case-by-case depending on the Project's needs.
