@@ -4,6 +4,8 @@
 
 Tailored case-by-case depending on the Project's needs.
 
+## Content:
+
 [Roles and responsibilities](docs/roles-and-responsibilities.md)
 
 [Communications](docs/communications.md)
