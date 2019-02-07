@@ -2,6 +2,8 @@
 
 **Key roles with responsibilities for every project, named in the Project Resourcing Contract.**
 
+![Roles](pics/YDIN delivery model roles and responsibilities.png)
+
 ## Client
 
 ### Executive Sponsor
