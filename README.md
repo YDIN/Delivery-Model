@@ -11,3 +11,5 @@ Tailored case-by-case depending on the Project's needs.
 [Project Steering Group](docs/steering-group.md)
 
 [Client Satisfaction Survey](docs/client-satisfaction-survey.md)
+
+[Contractual model](docs/contracts.md)
