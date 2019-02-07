@@ -1,4 +1,4 @@
-# Steering Group
+# Project Steering Group
 
 ## Purpose
 
