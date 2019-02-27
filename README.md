@@ -15,3 +15,5 @@ Tailored case-by-case depending on the Project's needs.
 [Client Satisfaction Survey](docs/client-satisfaction-survey.md)
 
 [Contractual model](docs/contracts.md)
+
+[Developer seniority level definitions](docs/seniority-levels.md)
