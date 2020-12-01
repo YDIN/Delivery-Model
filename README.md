@@ -17,3 +17,5 @@ Tailored case-by-case depending on the Project's needs.
 [Contractual model](docs/contracts.md)
 
 [Developer seniority level definitions](docs/seniority-levels.md)
+
+[New Developer Onboarding Checklist](docs/new-developer-onboarding-checklist.md)
