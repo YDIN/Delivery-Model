@@ -10,6 +10,10 @@ Plan first week high-level tasks and goals.
 
 Review internal documentation to ensure all tool and internal process explanations are up to date.
 
+Ensure that the step-by-step instructions to set up the development environment is available and up to date.
+
+Select and involve the key contact for the new developer to ask help from during the first days.
+
 ### 1.2. Inform stakeholders
 
 Inform all relevant stakeholders about new developer joining:
@@ -43,7 +47,7 @@ Mission
 
 Goals and targets
 
-First week tasks and expectations
+Expectations for the first week and the first tasks to validate the onboarding activities have been working
 
 ### 2.3. Design
 
@@ -65,7 +69,7 @@ Services used
 
 Models used
 
-Development environment
+Introduction and setting up the development environment
 
 Coding standards and style guides
 
